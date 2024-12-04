@@ -1,0 +1,4 @@
+langchain_google_genai
+pinecone
+flask
+flask_cors
